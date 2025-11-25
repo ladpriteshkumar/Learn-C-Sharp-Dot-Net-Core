@@ -22,3 +22,14 @@ Data Type refers to the type of data that can be stored in a variable.C# is rich
 * Reference types are of two types - built-in and user-defined. 
     
  * Reference types are stored in a heap and derived from System.Object class.
+
+
+## Key Differences between Value Types and Reference Types
+
+| Aspect              | Value Types                          | Reference Types                     |
+|---------------------|--------------------------------------|-------------------------------------|
+| **Storage**         | Stored on the **stack**              | Stored on the **heap** (reference on stack) |
+| **Copy Behavior**   | Copies the actual value              | Copies the reference (pointer)      |
+| **Independence**    | Each variable has its own copy       | Multiple variables share the same object |
+| **Examples**        | `int`, `float`, `struct`, `enum`     | `class`, `array`, `string`, `delegate` |
+| **Default Value**   | Depends on type (e.g., `0` for int)  | `null`                              |
