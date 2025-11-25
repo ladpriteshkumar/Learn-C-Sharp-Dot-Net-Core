@@ -23,6 +23,10 @@ Yes ✅, it’s absolutely possible to view IL (Intermediate Language) code from
 
 ### 7. Does .NET support multiple programming languages ?
 Yes
+
+### 8. What is CLR ( Common Language Runtime) ?
+The Common Language Runtime (CLR) is the execution engine of .NET. It runs your compiled code (IL – Intermediate Language), manages memory, enforces security, and provides essential services like garbage collection, exception handling, and cross-language interoperability
+
     
 ### 3) [Data Type in C#](DataType/README.md) ? ###
 ### 2) Explain Type casting in C# ? ###
