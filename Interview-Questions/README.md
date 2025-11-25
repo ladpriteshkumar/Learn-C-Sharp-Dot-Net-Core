@@ -37,6 +37,10 @@ The Common Language Runtime (CLR) is the execution engine of .NET. It runs your 
 ### 10. Explain the importance of Garbage collector ?
 The Garbage Collector (GC) in .NET is one of the most important features of the Common Language Runtime (CLR). It automatically manages memory, freeing developers from the burden of manual allocation and deallocation.
 
+### 11. Can garbage collector claim unmanaged objects ?
+No, the Garbage Collector cannot directly reclaim unmanaged objects. It only manages managed objects that live on the CLR-managed heap. Unmanaged resources (like file handles, database connections, sockets, or memory allocated outside the CLR) are invisible to the GC.
+
+
 
 ### 3) [Data Type in C#](DataType/README.md) ? ###
 ### 2) Explain Type casting in C# ? ###
