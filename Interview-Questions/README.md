@@ -20,6 +20,9 @@ Source code (e.g., C#) → compiled into IL → JIT translates IL into machine c
 Yes ✅, it’s absolutely possible to view IL (Intermediate Language) code from your compiled .NET assemblies. Developers often do this to understand what the compiler generated, debug performance issues, or learn how high-level C# translates into IL.
 
 ### 6. What is the benefit of compiling in to IL code ?
+
+### 7. Does .NET support multiple programming languages ?
+Yes
     
 ### 3) [Data Type in C#](DataType/README.md) ? ###
 ### 2) Explain Type casting in C# ? ###
