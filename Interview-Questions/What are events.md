@@ -1,0 +1,3 @@
+## What are events in C#?
+
+Events in C# are a way for one object (the publisher) to notify other objects (subscribers) when something of interest occurs. They’re built on delegates, which define the method signature that event handlers must follow. Using the event keyword, C# enforces encapsulation so only the publisher can raise the event, while subscribers can attach or detach their handlers. This supports a clean publisher–subscriber model, promotes loose coupling, and allows multiple subscribers to react differently to the same event. Events are widely used in GUI programming, asynchronous operations, and messaging systems.
