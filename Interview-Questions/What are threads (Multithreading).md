@@ -26,6 +26,31 @@ Threads are lightweight units of execution within a process, and multithreading 
 - Complex debugging: Harder to trace errors when tasks overlap.
 
 
+## How are threads different from TPL ?
+
+### 🔑 Key Differences
+
+| Aspect              | Threads                          | TPL (Tasks)                          |
+|---------------------|----------------------------------|---------------------------------------|
+| Level of abstraction | Low-level (manual control)       | High-level (managed by runtime)       |
+| Resource management | Developer must manage            | Automatic via ThreadPool              |
+| Ease of use         | Complex, error-prone             | Simplified with built-in features     |
+| Features            | Basic execution                  | Continuations, cancellation, async/await |
+| Best for            | Fine-grained control, legacy code | Modern parallelism & async programming |
+
+
+"Threads are the basic unit of execution, giving developers direct control but requiring manual management of synchronization and lifecycle. The Task Parallel Library (TPL) is a higher-level abstraction that builds on threads, using the ThreadPool and scheduler to manage execution automatically. TPL makes it easier to write scalable, maintainable, and asynchronous code by providing features like continuations, cancellation, and integration with async/await. In practice, developers prefer TPL for most scenarios, while raw threads are used only when very fine-grained control is required."
+
+
+
+ ### When should you use Threads vs TPL?
+
+Use threads when you need low‑level, fine‑grained control over execution — for example, setting priorities, managing lifecycle explicitly, or working with legacy code that requires direct thread manipulation. Use the Task Parallel Library (TPL) when you want higher‑level abstractions for concurrency and parallelism, such as running background tasks, handling continuations, cancellations, or integrating with async/await. In modern .NET development, TPL is preferred for most scenarios because it simplifies code, improves scalability, and leverages the ThreadPool automatically, while raw threads are reserved for special cases requiring direct control."
+
+
+
+
+
 
 
 
