@@ -26,5 +26,10 @@ list.Add(1);
 list.Add("Hello"); // Mixed types allowed
 ```
 
+#### Whose performance is better array or arraylist ?
+- Arrays are faster and more memory-efficient because they are strongly typed and store elements contiguously.
+- ArrayLists trade performance for flexibility — they can grow dynamically and hold mixed types, but incur overhead from boxing/unboxing and casting.
+
+
 
 
