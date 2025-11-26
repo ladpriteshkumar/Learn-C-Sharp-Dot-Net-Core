@@ -61,5 +61,5 @@ Unboxing is the process of converting Reference type ino a value type.
 
 ### 19. [What are generic collections ?](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/1cafed76b9e151e79e0efb686b1145824946a523/Interview-Questions/generic%20collections.md)
 
-### 20. [What are threads (Multithreading)?](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/d1c3b1f44ccbffe05adc4214693359d3e036e27b/Interview-Questions/What%20are%20threads%20(Multithreading).md)
+### 20. [What are threads (Multithreading)?](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/b713c300498a1e8a06466a5ba4fbdc4f62dc2364/Interview-Questions/What%20are%20threads%20(Multithreading).md)
 
