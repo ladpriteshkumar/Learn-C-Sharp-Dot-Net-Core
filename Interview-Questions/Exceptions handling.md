@@ -53,6 +53,9 @@ class Program
 - Use finally for cleanup tasks like closing database connections or file streams.
 - For advanced scenarios, consider try/catch with exception filters (catch (Exception ex) when (condition)).
 
+### What is the need of finally?
+see Above
+
 
 
 
