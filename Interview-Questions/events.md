@@ -5,7 +5,7 @@
 - Events are built on top of delegates — they use delegates to hold references to methods that should be called when the event is triggered.
 - Commonly used in GUI applications (like button clicks) and in scenarios where you want to implement the Observer pattern.
 
-### 🛠 How Events Work
+### 🛠 How Events Work (How to Create an Event?)
 - Declare a delegate that defines the signature of the event handler.
 - Declare an event based on that delegate.
 - Subscribe methods to the event.
