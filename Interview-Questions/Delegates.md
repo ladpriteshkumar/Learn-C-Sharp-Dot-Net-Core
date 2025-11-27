@@ -55,7 +55,7 @@ Yes 👍, in C# you can create an object of a delegate because a delegate is act
   
     Delegates are used when you want to pass a method as a parameter to another method.
 
-- Multicast Delegates
+- Multicast Delegates ( What is a Multicast Delegates?)
   
     A single delegate object can hold references to multiple methods.
 
