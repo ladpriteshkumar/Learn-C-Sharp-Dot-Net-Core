@@ -228,5 +228,14 @@ class Program
 - **Polymorphism** = *Same action, different behavior* (different ways to start).  
 
 
+### Conclusion
+"The four pillars of OOP are Encapsulation, Abstraction, Inheritance, and Polymorphism. 
+- Encapsulation protects data by controlling access,
+- Abstraction hides complexity by exposing only essential features,
+- Inheritance promotes code reuse by extending base classes,
+- Polymorphism allows the same interface to behave differently depending on the object.
+
+Together, they make software modular, reusable, and easier to maintain."
+
 
 
