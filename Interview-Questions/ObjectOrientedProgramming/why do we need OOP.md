@@ -23,7 +23,7 @@ Object-Oriented Programming (OOP) is needed because it provides a structured way
 
 #### Abstraction 🎭
 - **Abstraction** is the process of **hiding implementation** details and exposing only the essential features of an object.
-- Achieved using abstract classes and interfaces in C#.
+- Achieved using **abstract classe** and **interfaces** in C#.
 - Helps developers work at a higher level of design without worrying about low-level details.
 - Example: 
 ```csharp
