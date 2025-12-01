@@ -7,4 +7,4 @@ https://www.geeksforgeeks.org/dsa/logic-building-problems/
 
 ## [Multiplication Table]()
 
-## [sum of n natural numbers]()
+## [sum of n natural numbers](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/eb3bb96614328b5b151820dc712b41b1a580f4f8/Coding-Interview-Question/sum%20of%20n%20natural%20numbers.md)
