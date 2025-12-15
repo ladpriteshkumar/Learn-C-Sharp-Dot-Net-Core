@@ -99,3 +99,56 @@ Data Type refers to the type of data that can be stored in a variable.C# is rich
 
 
 
+### Record Types in C#
+1. Reference Types (Record Class)
+- Declared with record class (or just record by default).
+- Behave like normal classes but with built-in value-based equality.
+- Equality is based on the values of properties rather than object references.
+- Example:
+public record Person(string FirstName, string LastName);
+
+var p1 = new Person("Alice", "Smith");
+var p2 = new Person("Alice", "Smith");
+
+Console.WriteLine(p1 == p2); // True (value equality)
+
+
+
+2. Value Types (Record Struct)
+- Declared with record struct.
+- Behave like structs but also support value-based equality.
+- Useful when you want lightweight, immutable data carriers.
+- Example:
+public record struct Point(int X, int Y);
+
+var pt1 = new Point(10, 20);
+var pt2 = new Point(10, 20);
+
+Console.WriteLine(pt1 == pt2); // True (value equality)
+
+
+
+3. Value Equality
+- Unlike normal classes (which use reference equality by default), records automatically implement:
+- Equals()
+- GetHashCode()
+- == and != operators
+- This makes them perfect for data-centric applications like DTOs, immutable models, or pattern matching.
+
+4. Extra Features
+- With-expressions: Create modified copies easily.
+var p3 = p1 with { LastName = "Johnson" };
+- Deconstruction: Break records into components.
+var (first, last) = p1;
+
+
+
+👉 In short:
+- Record class = reference type with value equality.
+- Record struct = value type with value equality.
+Both are designed to make working with immutable, data-focused objects much easier.
+
+Would you like me to also show you when to choose record class vs record struct in real-world scenarios (like performance trade-offs and memory usage)?
+
+
+
