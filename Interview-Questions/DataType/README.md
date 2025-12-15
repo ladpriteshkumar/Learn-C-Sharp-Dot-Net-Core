@@ -44,3 +44,58 @@ Data Type refers to the type of data that can be stored in a variable.C# is rich
 | **Independence**    | Each variable has its own copy       | Multiple variables share the same object |
 | **Examples**        | `int`, `float`, `struct`, `enum`     | `class`, `array`, `string`, `delegate` |
 | **Default Value**   | Depends on type (e.g., `0` for int)  | `null`                              |
+
+
+
+
+# 
+# DataType in C#
+
+[Reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)
+
+
+
+# Built in Value Type
+`bool`
+
+`byte`
+`sbyte` 
+
+`char` 
+
+`decimal` 
+`double` 
+`float` 
+`int` 
+`uint` 
+
+`nint` 
+`nuint` 
+
+`short` 
+`ushort` 
+
+`long` 
+`ulong` 
+
+
+
+# Built in Reference Type
+`object`
+`string`
+`dynamic`
+
+
+# User Define Value Type
+`struct`
+`enum`
+
+
+# User Define Reference Type
+`class`
+`interface`
+`delegate`
+`record`
+
+
+
