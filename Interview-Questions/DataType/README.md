@@ -98,7 +98,7 @@ Data Type refers to the type of data that can be stored in a variable.C# is rich
 `record`
 
 
-
+# =============================================================
 # Record Types in C#
 1. Reference Types (Record Class)
 - Declared with record class (or just record by default).
