@@ -5,8 +5,6 @@
 
 ### What is C#?
 - Definition: C# (pronounced “C-sharp”) is a strongly typed, object-oriented programming language.
-- Purpose: It’s used to write code that runs on the .NET platform.
-- Usage Examples: Writing business logic, algorithms, desktop apps, web apps, and even game development (Unity uses C#).
 
 ### What is .NET?
 - Definition: .NET is a development framework/platform created by Microsoft. It includes a runtime (CLR – Common Language Runtime), libraries, and tools.
