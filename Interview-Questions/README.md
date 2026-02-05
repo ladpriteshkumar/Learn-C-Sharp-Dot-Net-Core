@@ -4,6 +4,7 @@ https://www.questpond.com/c-interview-questions-and-answers/cid69
 ### 1. [Explain difference between .NET and C# ?](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/0fbd102f867eba96fca1cd610d9dd1c258827c72/Interview-Questions/Explain%20difference%20between%20.NET%20and%20C%23.md)
 
 ### 2. .NET Framework vs .NET Core vs .NET 5.0 (Difference) ?
+.NET Framework is Windows‑only and legacy, .NET Core is cross‑platform and high‑performance, and .NET 5+ is the unified, modern future of .NET
 
 ### 3. What is IL ( Intermediate Language)  ?
 Intermediate Language (IL), also called CIL (Common Intermediate Language) or MSIL (Microsoft Intermediate Language), is the platform-independent bytecode that all .NET languages (like C#, VB.NET, F#) compile into. At runtime, the Common Language Runtime (CLR) translates IL into native machine code using the Just-In-Time (JIT) compiler
