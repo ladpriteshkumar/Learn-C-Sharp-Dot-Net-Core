@@ -1,4 +1,7 @@
 
+“Generics allow type‑safe, reusable, high‑performance code. They apply to classes, methods, interfaces, delegates, collections, constraints.
+
+
 # **🔥 C# Generics — Top Interview Questions & Answers**
 
 ## **1. What are Generics in C#?**
