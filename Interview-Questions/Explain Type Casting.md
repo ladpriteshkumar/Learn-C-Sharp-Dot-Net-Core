@@ -8,7 +8,7 @@ Unboxing is the process of converting Reference type ino a value type.
 
 
 ### 🎯 What is Type Casting?
-Type casting is the process of converting one data type into another. It allows you to treat a variable of one type as another type, either temporarily or permanently.
+Type casting is the process of converting one data type into another.
 
 🧩 Types of Casting
 1. Implicit Casting (Type Conversion)
