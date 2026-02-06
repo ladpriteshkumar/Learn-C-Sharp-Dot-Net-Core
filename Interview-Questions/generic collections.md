@@ -6,7 +6,7 @@
 
 ## **1. What are Generics in C#?**
 **Answer:**  
-Generics allow you to create type‑safe, reusable classes, methods, interfaces, and collections without specifying the actual data type until the code is used. They eliminate casting, improve performance, and catch errors at compile time.
+Generics allow you to create type‑safe, reusable classes, methods, interfaces, and collections without specifying the actual data type until used. They eliminate casting, improve performance, and catch errors at compile time.
 
 ---
 
