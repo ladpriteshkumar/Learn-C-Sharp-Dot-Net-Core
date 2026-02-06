@@ -4,17 +4,6 @@ https://www.questpond.com/c-interview-questions-and-answers/cid69
 ### 1. [Explain difference between .NET and C# ?](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/0fbd102f867eba96fca1cd610d9dd1c258827c72/Interview-Questions/Explain%20difference%20between%20.NET%20and%20C%23.md)
 
 ### 2. [.NET Framework vs .NET Core vs .NET 5.0 (Difference) ?](https://github.com/ladpriteshkumar/Interview-Question-Answer/blob/main/Interview-Questions/Fundamentals/README.md#1-net-framework-vs-net-core-vs-net-50-difference-)
-.NET Framework is Windows‑only and legacy, .NET Core is cross‑platform and high‑performance, and .NET 5+ is the unified, modern future of .NET
-
-| Feature / Aspect      | .NET Framework        | .NET Core                 | .NET 5+ (5, 6, 7, 8…)            |
-|-----------------------|------------------------|----------------------------|----------------------------------|
-| Release Year          | 2002                   | 2016                       | 2020+                            |
-| Platform Support      | Windows only           | Cross‑platform             | Cross‑platform                   |
-| Open Source           | Partially              | Fully open source          | Fully open source                |
-| Performance           | Moderate               | High                       | Highest                          |
-| App Models            | WebForms, WPF, WinForms, ASP.NET MVC, WCF | ASP.NET Core, Console, Microservices | ASP.NET Core, MAUI, Blazor, Cloud‑native |
-| Future Development    | Maintenance only       | Ended at .NET Core 3.1     | Actively developed (future of .NET) |
-| Use Case              | Legacy enterprise apps | Modern, cloud, microservices | All new development, unified platform |
 
 ### 3. What is IL ( Intermediate Language)  ?
 Intermediate Language (IL), also called  Common Intermediate Language(CIL) or Microsoft Intermediate Language (MSIL), all .NET languages (like C#, VB.NET, F#) compile into IL at runtime, the Common Language Runtime (CLR) translates IL into native machine code using the Just-In-Time (JIT) compiler
