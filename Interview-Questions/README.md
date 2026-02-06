@@ -23,7 +23,7 @@ https://www.questpond.com/c-interview-questions-and-answers/cid69
 
 ### 8. [Difference Between Ref and Out Parameter](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/6e3c5e1fc36cba86a0afe31d6a929daab219dd5d/Interview-Questions/Difference%20Between%20Ref%20and%20Out%20Parameter.md)
 
-### 9. [Delegates in C#](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/tree/b81ef7dfc048f9d326747a566c64bd7b8da76259/Interview-Questions)
+### 9. [Delegates in C#](https://github.com/ladpriteshkumar/Interview-Question-Answer/blob/b81ef7dfc048f9d326747a566c64bd7b8da76259/Interview-Questions/Delegates.md)
 
 ### 10. [Events](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/ff1214a6b356f40d633f9a7c4d630e7f48fe8328/Interview-Questions/events.md)
 
