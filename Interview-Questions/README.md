@@ -6,15 +6,11 @@ https://www.questpond.com/c-interview-questions-and-answers/cid69
 ## [.NET Fundanentials Question Answer](https://github.com/ladpriteshkumar/Interview-Question-Answer/blob/main/Interview-Questions/Fundamentals/README.md)
 
 
-### 12. [What is the importance of CTS ?](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/9a04cb31ad386e68b30a9a84b4f813e7f07c14e0/Interview-Questions/What%20is%20the%20importance%20of%20CTS.md)
+### 1. [Difference between Stack vs Heap ?](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/8761588929ca9a16c9dac65c54cd768357731743/Interview-Questions/Difference%20between%20Stack%20vs%20Heap.md)
 
-### 13. [Explain CLS ?](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/ddba41177e3367203739bb42d2711d2696c2702c/Interview-Questions/Explain%20CLS.md)
+### 2. [Data Type in C#](DataType/README.md) ? 
 
-### 14. [Difference between Stack vs Heap ?](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/8761588929ca9a16c9dac65c54cd768357731743/Interview-Questions/Difference%20between%20Stack%20vs%20Heap.md)
-
-### 15. [Data Type in C#](DataType/README.md) ? 
-
-### 16. [Explain boxing and unboxing ?](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-and-unboxing)
+### 3. [Explain boxing and unboxing ?](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-and-unboxing)
 Boxing is the process of converting a value type into a reference type (specifically, into an `Object` ).
 
 Unboxing is the process of converting Reference type ino a value type.
