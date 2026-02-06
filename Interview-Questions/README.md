@@ -1,11 +1,10 @@
 # Interview-Questions
 
 https://www.questpond.com/c-interview-questions-and-answers/cid69
-### 1. [Explain difference between .NET and C# ?](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/0fbd102f867eba96fca1cd610d9dd1c258827c72/Interview-Questions/Explain%20difference%20between%20.NET%20and%20C%23.md)
 
-### [.NET Fundanentials Question Answer](https://github.com/ladpriteshkumar/Interview-Question-Answer/blob/main/Interview-Questions/Fundamentals/README.md)
 
-### 2. [.NET Framework vs .NET Core vs .NET 5.0 (Difference) ?](https://github.com/ladpriteshkumar/Interview-Question-Answer/blob/main/Interview-Questions/Fundamentals/README.md#1-net-framework-vs-net-core-vs-net-50-difference-)
+## [.NET Fundanentials Question Answer](https://github.com/ladpriteshkumar/Interview-Question-Answer/blob/main/Interview-Questions/Fundamentals/README.md)
+
 
 ### 12. [What is the importance of CTS ?](https://github.com/ladpriteshkumar/Learn-C-Sharp-Dot-Net-Core/blob/9a04cb31ad386e68b30a9a84b4f813e7f07c14e0/Interview-Questions/What%20is%20the%20importance%20of%20CTS.md)
 
